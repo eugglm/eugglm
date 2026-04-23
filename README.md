@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="" width="95%" />
+</p>
 ## 🧾 Información General
 
 - Eugenia Gonzalez
