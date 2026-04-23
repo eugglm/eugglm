@@ -1,16 +1,53 @@
-## Hi there 👋
 
-<!--
-**eugglm/eugglm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Información General
 
-Here are some ideas to get you started:
+- Eugenia Gonzalez
+- 17
+- Tercero B
+- Software 
+- Instituto Nacional de Santiago de Maria
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Intereses
+
+- Conciertos
+- Salidas Nocturas
+- Belleza y estilo
+
+---
+
+## 🧠 Habilidades
+
+- Habilidad en maquillaje y estética
+- Capacidad para la cocina
+- Bailar 
+
+---
+
+## 💻 Conocimientos Técnicos
+
+- Lenguajes de programación: SQL (consultas), Python (nivel básico)
+- Herramientas tecnológicas: Plataformas digitales, entornos de desarrollo básicos
+- Otros conocimientos: Manejo de redes sociales y creación de contenido digital
+
+---
+
+## 📚 Experiencia Académica
+
+- Desarrollo de consultas en bases de datos relacionales
+- Resolución de problemas mediante lógica de programación
+
+---
+
+## 🎯 Objetivos Personales
+
+- Perfeccionar habilidades en programación y bases de datos
+- Desarrollar proyectos tecnológicos innovadores
+- Integrar creatividad y tecnología en futuros proyectos
+
+---
+
+## 📌 Notas
+
+Soy una persona auténtica, creativa y con iniciativa. Me gusta destacar, aprender cosas nuevas y aprovechar las tendencias a mi manera. Tengo interés en crecer tanto en el área tecnológica como en lo creativo, combinando ambas para lograr cosas grandes.
